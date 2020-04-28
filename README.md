@@ -35,6 +35,13 @@ The project is divided into 3 folders: one for data and data processing; another
 
 3. Go to http://0.0.0.0:3001/ 
 
+#Screenshots:
+[screen 1]https://github.com/agarwalanant/disaster_responce/blob/master/file1.JPG
+
+[screen 2]https://github.com/agarwalanant/disaster_responce/blob/master/file2.JPG
+
+[screen 3]https://github.com/agarwalanant/disaster_responce/blob/master/file3.JPG
+
 # Results
 The final output of the project is an interactive web app that takes a message from the user as an input and then classifies it.
 
