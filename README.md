@@ -18,13 +18,11 @@ The project is divided into 3 folders: one for data and data processing; another
 1. Messages data: disaster_messages.csv
 2. Categories data: disaster_categories.csv
 3. SQL Database: DisasterResponse.db
-4. Jupyter notebook for building ETL pipeline: ETL Pipeline Preparation.ipynb
-5. Python script for processing the data: process_data.py
 
 ### Files in the Models Folder
 1. Jupyter notebook for building a machine learning pipeline: ML Pipeline Preparation.ipynb
 2. Python script for training the classifier: train_classifier.py
-3. A pickle file that contains the trained model: classifier.pkl
+3. A pickle file that contains the trained model: classifier.pkl { ### should be downloaded from google drive link )
 
 ### Files in the App Folder
 1. Python script for running the web app: run.py
