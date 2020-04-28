@@ -20,9 +20,8 @@ The project is divided into 3 folders: one for data and data processing; another
 3. SQL Database: DisasterResponse.db
 
 ### Files in the Models Folder
-1. Jupyter notebook for building a machine learning pipeline: ML Pipeline Preparation.ipynb
-2. Python script for training the classifier: train_classifier.py
-3. A pickle file that contains the trained model: classifier.pkl { ### should be downloaded from google drive link )
+1. Python script for training the classifier: train_classifier.py
+2. A pickle file that contains the trained model: classifier.pkl { ### should be downloaded from google drive link https://drive.google.com/file/d/1IpszRqikVnHxiixKI5kPGOD0SugRR8ds/view?usp=sharing )
 
 ### Files in the App Folder
 1. Python script for running the web app: run.py
